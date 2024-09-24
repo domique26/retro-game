@@ -64,6 +64,9 @@ function startGame() {
 
         scene.centerCameraAt(scene.cameraProperty(CameraProperty.X), myPlayer.y);
 
+        if (info.score() > 1000) {
+            myPlayer.setImage(assets.image`sybit_logo_new`);
+        } 
         if (info.score() > 2000) {
             game.over(true, effects.confetti)
         } 
