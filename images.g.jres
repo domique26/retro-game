@@ -1,0 +1,26 @@
+{
+    "myImages.image1": {
+        "id": "myImages.image1",
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABwd3d3AAAAAHd3dwAAAABwd3d3AAAAAHf3f3d3AAAAd3d3dwAAAAB3d3d3AAAAAHD3f3d3AAAAAHd3dwAAAAAAcHd3dwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "dataEncoding": "base64",
+        "namespace": "myImages.",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "playerImage"
+    },
+    "myImages.image2": {
+        "id": "myImages.image2",
+        "data": "hwQPAA8AAAAAADMzMwMAAAAzMzMzMwMAMDMzMzMzMwAwMzMRMTMzADMzMxERMzMDMzMzExExMwMzMzMzMzMzAzMzMxMRMTMDMzMzERExMwMzMxMRMTMzAzMzEREzMzMDMBMRMTMzMwAwMzMzMzMzAAAzMzMzMwMAAAAzMzMDAAA=",
+        "dataEncoding": "base64",
+        "namespace": "myImages.",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "sybit_logo"
+    },
+    "myImages.image3": {
+        "id": "myImages.image3",
+        "data": "hwQPAA8AAAAAAIiIiAgAAACIiIiIiAgAgIiIiIiIiACAGBGIiBGIAIgREYGIEYEIiBEYEYgYgQiIEYgRgRiBCIgRiBiBGIEIiBGIGBEYgQiIEYiIERGBCIgRgYgYEYEIgBiBiIgRiACAiIiIiIiIAACIiIiIiAgAAACIiIgIAAA=",
+        "dataEncoding": "base64",
+        "namespace": "myImages.",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "sybit_logo_new"
+    }
+}
