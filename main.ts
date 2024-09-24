@@ -8,7 +8,7 @@ function showControls() {
     // showLongText automatically pauses until A is pressed
     game.showLongText("Press A to jump!\nPress B to toggle debug mode", DialogLayout.Center);
 }
-
+// Hallo
 function startGame() {
     let debug_mode: boolean = false;
     let tiles:Sprite[] = [];
